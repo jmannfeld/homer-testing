@@ -4,5 +4,8 @@
   "description": "",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dog-names": "^3.0.0"
+  }
 }
