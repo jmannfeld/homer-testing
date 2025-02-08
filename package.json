@@ -6,6 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dog-names": "^3.0.0"
+    "dog-names": "^3.0.0",
+    "semver": "^7.7.1"
   }
 }
